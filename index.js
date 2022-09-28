@@ -1,1 +1,1 @@
-console.log("Mi primer ejemplo");
+console.log("Mi primer ejemplo");  //Imprimir en pantalla
